@@ -20,8 +20,6 @@ TimelessWatches.WCF is the backend service powering the TimelessWatches e-commer
 - 💳 **Order Processing**: Manage the checkout process and generate invoices
 - 📊 **Reports**: Generate reports for sales, inventory, and user activities
 
-## 🛠️ Setup & Configuration
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/TimelessWatches.WCF.git
+
+
